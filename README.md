@@ -1,13 +1,14 @@
-##Table of content
+## Table of content
 * [Tech I use](#tech-i-use)
 * [Inspiration](#inspiration)
 
-##Tech I use
+## Tech I use
 * c
 * c++
 * python
 * javascript
-##Inspiration
+* 
+## Inspiration
 * oskar stalberg
 
 <!--
