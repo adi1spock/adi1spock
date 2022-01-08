@@ -15,6 +15,7 @@
 * natural language processing
 * webscraping
 * deepleraning and machine learning algorithms
+* web and mobile application
 
 ## Currently working on 
 * problem solving skills
