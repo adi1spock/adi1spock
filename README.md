@@ -1,4 +1,14 @@
-### Hi there 👋
+##Table of content
+* [Tech I use](#tech-i-use)
+* [Inspiration](#inspiration)
+
+##Tech I use
+* c
+* c++
+* python
+* javascript
+##Inspiration
+* oskar stalberg
 
 <!--
 **adi1spock/adi1spock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
