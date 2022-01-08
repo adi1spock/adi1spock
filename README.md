@@ -29,7 +29,7 @@
 ## Contact Me
 * [linkedin](https://www.linkedin.com/in/aditya-singh11111111/)
 * website
-* mail - adityasing141141@gmail.com
+* mail - adityasingh141141@gmail.com
 <!--
 **adi1spock/adi1spock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
