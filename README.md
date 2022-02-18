@@ -6,10 +6,8 @@
 * [Contact Me](#contact-me)
 
 ## Tech I use
-* c
 * c++
 * python
-* javascript
 
 ## Has worked on 
 * natural language processing
@@ -28,19 +26,4 @@
 
 ## Contact Me
 * [linkedin](https://www.linkedin.com/in/aditya-singh11111111/)
-* website
 * mail - adityasingh141141@gmail.com
-<!--
-**adi1spock/adi1spock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
