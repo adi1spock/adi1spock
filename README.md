@@ -8,6 +8,7 @@
 ## Tech I use
 * c++
 * python
+* javascript
 
 ## Has worked on 
 * natural language processing
