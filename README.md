@@ -27,4 +27,3 @@
 
 ## Contact Me
 * [linkedin](https://www.linkedin.com/in/aditya-singh11111111/)
-* mail - adityasingh141141@gmail.com
